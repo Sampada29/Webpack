@@ -1,12 +1,23 @@
 $color: #fff;
 
+.protest-guerrilla-regular {
+  
+  font-style: normal;
+}
+
 .section .title{
     font-size: 35px;
     padding-bottom: 10px;
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
     color: $color;
 }
 
 .section .description{
     font-size: 18px;
     color: $color;
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400; 
 }
