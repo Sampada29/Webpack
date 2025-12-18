@@ -1,5 +1,6 @@
 import image from "./assets/image.svg";
 import smile from "./assets/smile.avif";
+import "./style/style.css";
 
 document.getElementById("toast").style.visibility = "hidden";
 
